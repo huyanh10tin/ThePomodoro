@@ -1,0 +1,19 @@
+#setTime{
+	background-color: black;
+	
+}
+.white{
+	color: white;
+}
+#displayTime{
+	margin-top: 20px;
+	background-color: black;
+	padding: 10px;
+}
+.black{
+	color: black;
+	font-weight: bold;
+}
+.cusor:hover{
+	cursor: pointer;
+}
